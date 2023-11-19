@@ -25,3 +25,5 @@ The outcomes of the project CyberGuard are as follows :
 3. Incident Response Efficiency
 4. User-friendly Interface
 5. Effective Sandbox Analysis
+
+   Below attached file contains the details related to the website "CyberGuard" :[bitsprint.zip](https://github.com/Bit-sprint/CyberGuard/files/13403181/bitsprint.zip)
